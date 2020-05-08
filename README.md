@@ -1,7 +1,7 @@
 # ASiMOV
 ### CK
 - IN:1,Alert 2,Meta 3,Cmsg 4,Query
-- OUT:1,Time rim 2, 3, 4,SetCmsg 
+- OUT:1,Time rim 2,Meta 3,Cmsg 4,SetCmsg 
 ### CL
 - IN:1,Notif 2,Time ri 3,SetCmsg
 - OUT:1,a Pload 2,Query
